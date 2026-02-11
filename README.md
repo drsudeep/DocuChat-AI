@@ -44,7 +44,8 @@ A complete full-stack AI application that allows users to upload PDF documents a
 Main landing page of DocuChatAI where users can understand features and navigate to login or signup.
 
 ![](https://github.com/drsudeep/DocuChat-AI/blob/master/home%20page%201.png?raw=true)
-
+![](`https://github.com/drsudeep/DocuChat-AI/blob/master/home%20page%202.png?raw=true)
+![]()
 
 ---
 
@@ -52,8 +53,8 @@ Main landing page of DocuChatAI where users can understand features and navigate
 
 New users can create an account with email and password.
 
-`https://github.com/drsudeep/DocuChat-AI/blob/master/signup%20page.png?raw=true`
-`https://github.com/drsudeep/DocuChat-AI/blob/master/home%20page%202.png?raw=true`
+![](https://github.com/drsudeep/DocuChat-AI/blob/master/signup%20page.png?raw=true)
+
 
 
 ---
@@ -62,7 +63,7 @@ New users can create an account with email and password.
 
 Secure authentication interface.
 
-`https://github.com/drsudeep/DocuChat-AI/blob/master/signin%20page.png?raw=true`
+![](https://github.com/drsudeep/DocuChat-AI/blob/master/signin%20page.png?raw=true)
 
 ---
 
@@ -70,7 +71,7 @@ Secure authentication interface.
 
 Upload any document to analyze and chat with.
 
-`https://github.com/drsudeep/DocuChat-AI/blob/master/upload%20pdf%20page.png?raw=true`
+![](https://github.com/drsudeep/DocuChat-AI/blob/master/upload%20pdf%20page.png?raw=true)
 
 ---
 
@@ -78,7 +79,7 @@ Upload any document to analyze and chat with.
 
 Interactive chat interface to ask queries from PDF.
 
-`https://github.com/drsudeep/DocuChat-AI/blob/master/ask%20question%20page.png?raw=true`
+![](https://github.com/drsudeep/DocuChat-AI/blob/master/ask%20question%20page.png?raw=true)
 
 ---
 
@@ -86,7 +87,7 @@ Interactive chat interface to ask queries from PDF.
 
 Generated answer based on document context.
 
-`https://github.com/drsudeep/DocuChat-AI/blob/master/ai%20response%20page.png?raw=true`
+![](ttps://github.com/drsudeep/DocuChat-AI/blob/master/ai%20response%20page.png?raw=true)
 
 ---
 
