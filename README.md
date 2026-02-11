@@ -44,8 +44,9 @@ A complete full-stack AI application that allows users to upload PDF documents a
 Main landing page of DocuChatAI where users can understand features and navigate to login or signup.
 
 ![](https://github.com/drsudeep/DocuChat-AI/blob/master/home%20page%201.png?raw=true)
+
 ![](`https://github.com/drsudeep/DocuChat-AI/blob/master/home%20page%202.png?raw=true)
-![]()
+
 
 ---
 
