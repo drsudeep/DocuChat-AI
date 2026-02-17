@@ -4,16 +4,16 @@ A complete full-stack AI application that allows users to upload PDF documents a
 
 ---
 
-## 🌟 Features
+##  Features
 
-### 🔐 Authentication
+###  Authentication
 
 * User Register & Login (JWT Based)
 * Secure password hashing
 * Protected API routes
 * User-specific document storage
 
-### 🧠 AI Document Q&A
+###  AI Document Q&A
 
 * Upload and process PDF files
 * Ask questions in natural language
@@ -21,7 +21,7 @@ A complete full-stack AI application that allows users to upload PDF documents a
 * Semantic search using embeddings
 * Fast retrieval with FAISS vector DB
 
-### 📂 Document Processing
+###  Document Processing
 
 * PDF text extraction
 * Automatic chunking
@@ -37,7 +37,7 @@ A complete full-stack AI application that allows users to upload PDF documents a
 
 ---
 
-## 🖼 Application Screenshots
+##  Application Screenshots
 
 ### 1️⃣ Homepage
 
@@ -92,7 +92,7 @@ Generated answer based on document context.
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ### Backend
 
@@ -113,7 +113,7 @@ Generated answer based on document context.
 
 ---
 
-## ⚙ Installation
+##  Installation
 
 ### Backend Setup
 
@@ -164,7 +164,7 @@ DocuChatAI/
 
 ---
 
-## 📌 How It Works
+##  How It Works
 
 1. User signs up and logs in
 2. Uploads PDF document
@@ -177,7 +177,7 @@ DocuChatAI/
 
 ---
 
-## 🎯 Future Enhancements
+##  Future Enhancements
 
 * Support for multiple PDFs
 * OCR for scanned documents
